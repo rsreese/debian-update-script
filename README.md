@@ -1,7 +1,4 @@
-# Debian Update Script
-====================
-
-## Shell Script to update, backup and provide statistics for Debian systems.
+## Debian Shell Script to update, backup and provide statistics for Debian systems.
 
 * Shell script to update Debian system via APT.
 * Backup systems and send the backups to remote systems
