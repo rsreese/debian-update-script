@@ -16,8 +16,8 @@ To addressed this, I have created a shell script for Debian to preform various n
 
 ### Install:
 
--Copy update-script.sh to the /etc/cron.daily/ directory on your Debian box.
--Optionally, to avoid having all Debian boxes attempt to update at the same time, edit /etc/crontab to reflect when the cron.daily jobs should run.
+* Copy update-script.sh to the /etc/cron.daily/ directory on your Debian box.
+* Optionally, to avoid having all Debian boxes attempt to update at the same time, edit /etc/crontab to reflect when the cron.daily jobs should run.
 
 ### Modify Backup Retention:
 
